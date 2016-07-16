@@ -7,8 +7,9 @@ Idea and first version was from Stephan Schmidt (http://www.simple-kanban.com/) 
 
 Project page: http://rapsli.github.com/simple-kanban/
 
-Demo: http://rapsli.github.com/simple-kanban/demo
+Original Demo: http://rapsli.github.com/simple-kanban/demo
 
+Staticspark Demo: https://github.com/StaticSpark/simple-kanban/demo
 
 License Information
 -------------------
